@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">41_ArrayAdapter_Listview</string>
+
+    <string-array name="names">
+        <item>Vijay</item>
+        <item>Hardik</item>
+        <item>Komal</item>
+    </string-array>
+</resources>

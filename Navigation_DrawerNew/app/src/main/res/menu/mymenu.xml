@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home"></item>
+
+        <item
+            android:id="@+id/lock"
+            android:icon="@drawable/lock"
+            android:title="Lock"></item>
+
+        <item
+            android:id="@+id/unlock"
+            android:icon="@drawable/lock_open"
+            android:title="Unlock"></item>
+
+        <item
+            android:id="@+id/wifi"
+            android:icon="@drawable/wifi"
+            android:title="WiFi"></item>
+
+        <item
+            android:id="@+id/bluetooth"
+            android:icon="@drawable/bluetooth"
+            android:title="Bluetooth"></item>
+
+    </group>
+
+</menu>

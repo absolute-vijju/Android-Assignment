@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">39 Listview</string>
+
+
+    <string-array name="DaysOfWeek">
+        <item name="Sunday">Sunday</item>
+        <item name="Sunday">Monday</item>
+        <item name="Sunday">Tuesdayy</item>
+        <item name="Sunday">Wednesday</item>
+        <item name="Sunday">Thursday</item>
+        <item name="Sunday">Friday</item>
+        <item name="Sunday">Saturday</item>
+    </string-array>
+
+</resources>

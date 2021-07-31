@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">40_String_Spinner</string>
+
+    <string-array name="names">
+        <item>Vijay</item>
+        <item>Hardik</item>
+    </string-array>
+</resources>
